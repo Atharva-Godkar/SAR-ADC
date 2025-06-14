@@ -87,3 +87,8 @@ we have designed PMOS differential pair OPAMP. it is a 2 stage OPAMP - 1st stage
 | total resistors in layout | 20 |
 | total capacitors in layout | 21 |
 
+## Team Members
+- [@vansh](https://github.com/VanshD40)
+- [@ansih](https://github.com/KNIGHTAPG)
+- [@anushri]()
+- [@godkar](https://github.com/Atharva-Godkar)
